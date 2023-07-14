@@ -1,0 +1,15 @@
+* {
+    font-family: "Fira Code", monospace;
+}
+
+#curr {
+    visibility: hidden;
+}
+
+#future {
+    visibility: hidden;
+}
+
+#future-title {
+    visibility: hidden;
+}
